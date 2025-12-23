@@ -1,0 +1,18 @@
+<svg width="130" height="30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#55efc4">
+        <animate attributeName="stop-color" values="#55efc4; #ffeaa7; #55efc4" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#ffeaa7">
+        <animate attributeName="stop-color" values="#ffeaa7; #55efc4; #ffeaa7" dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="128" height="28" rx="6" fill="#0d1117" stroke="url(#gradGreen)" stroke-width="1" stroke-opacity="0.5"/>
+  
+  <text x="10" y="20" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8b949e" font-weight="600">MAINTAINED</text>
+  
+  <text x="120" y="20" font-family="'Consolas', monospace" font-size="12" fill="url(#gradGreen)" font-weight="bold" text-anchor="end">YES</text>
+</svg>
