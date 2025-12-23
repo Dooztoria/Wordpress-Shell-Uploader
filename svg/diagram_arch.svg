@@ -1,0 +1,37 @@
+<svg width="600" height="200" viewBox="0 0 600 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#81ecec"/>
+      <stop offset="100%" stop-color="#a29bfe"/>
+    </linearGradient>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#a29bfe" />
+    </marker>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#0d1117" rx="10"/>
+
+  <rect x="50" y="50" width="140" height="100" rx="5" fill="none" stroke="#81ecec" stroke-width="2"/>
+  <text x="120" y="90" text-anchor="middle" fill="#81ecec" font-family="monospace" font-weight="bold" font-size="14">MAIN</text>
+  <text x="120" y="110" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="12">TERMINAL</text>
+  <circle cx="65" cy="65" r="3" fill="#ff7675"/>
+  <circle cx="75" cy="65" r="3" fill="#ffeaa7"/>
+  <circle cx="85" cy="65" r="3" fill="#55efc4"/>
+
+  <rect x="305" y="45" width="140" height="100" rx="5" fill="#0d1117" stroke="#a29bfe" stroke-width="2" stroke-opacity="0.5"/>
+  <rect x="300" y="50" width="140" height="100" rx="5" fill="#0d1117" stroke="#a29bfe" stroke-width="2"/>
+  <text x="370" y="90" text-anchor="middle" fill="#a29bfe" font-family="monospace" font-weight="bold" font-size="14">WORKER</text>
+  <text x="370" y="110" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="12">THREADS (∞)</text>
+
+  <path d="M200,80 L290,80" stroke="url(#lineGrad)" stroke-width="2" marker-end="url(#arrow)"/>
+  <path d="M290,120 L200,120" stroke="url(#lineGrad)" stroke-width="2" marker-end="url(#arrow)"/>
+  
+  <text x="245" y="70" text-anchor="middle" fill="#ffeaa7" font-size="10" font-family="monospace">TASK</text>
+  <text x="245" y="140" text-anchor="middle" fill="#ffeaa7" font-size="10" font-family="monospace">RESULT</text>
+
+  <text x="520" y="100" text-anchor="middle" fill="#fff" font-family="monospace" font-size="20">🌐</text>
+  <text x="520" y="125" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="10">TARGETS</text>
+  
+  <path d="M450,100 L490,100" stroke="#a29bfe" stroke-width="1" stroke-dasharray="4"/>
+
+</svg>
