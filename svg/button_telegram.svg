@@ -1,0 +1,22 @@
+<svg width="200" height="50" viewBox="0 0 200 50" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradBtn" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#81ecec">
+        <animate attributeName="stop-color" values="#81ecec; #a29bfe; #ffeaa7; #81ecec" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#a29bfe">
+        <animate attributeName="stop-color" values="#a29bfe; #ffeaa7; #81ecec; #a29bfe" dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect x="2" y="2" width="196" height="46" rx="23" fill="#0d1117" stroke="url(#gradBtn)" stroke-width="2"/>
+
+  <path d="M48,25 C48,25 65,18 70,16 C72,15 73,15 73,17 C73,18 72,19 71,20 L60,30 L65,34 C66,35 66,36 64,37 L58,39 L57,32 L68,22" 
+        fill="url(#gradBtn)" transform="translate(-10, -2)"/>
+
+  <text x="50%" y="52%" dominant-baseline="middle" text-anchor="middle" 
+        font-family="'Segoe UI', sans-serif" font-weight="bold" font-size="16" fill="#e6edf3" letter-spacing="1">
+    JOIN CHANNEL
+  </text>
+</svg>
