@@ -1,0 +1,14 @@
+<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#0a192f"/>
+  
+  <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1" fill="#64ffda" opacity="0.2"/>
+    <circle cx="12" cy="12" r="1" fill="#64ffda" opacity="0.1"/>
+  </pattern>
+  <rect width="100%" height="100%" fill="url(#dots)"/>
+
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="'Courier New', monospace" font-weight="bold" font-size="32" fill="#ffcc00">
+    [Dooz] - Wordpress Shell Uploader
+    <animate attributeName="opacity" values="1;0.8;1" dur="2s" repeatCount="indefinite"/>
+  </text>
+</svg>
