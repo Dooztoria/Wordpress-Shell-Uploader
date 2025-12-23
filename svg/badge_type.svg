@@ -1,0 +1,18 @@
+<svg width="210" height="30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradRed" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff7675">
+        <animate attributeName="stop-color" values="#ff7675; #fab1a0; #ff7675" dur="4s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#fab1a0">
+        <animate attributeName="stop-color" values="#fab1a0; #ff7675; #fab1a0" dur="4s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="208" height="28" rx="6" fill="#0d1117" stroke="url(#gradRed)" stroke-width="1" stroke-opacity="0.5"/>
+  
+  <text x="10" y="20" font-family="'Segoe UI', sans-serif" font-size="11" fill="#8b949e" font-weight="600">TYPE</text>
+  
+  <text x="200" y="20" font-family="'Consolas', monospace" font-size="12" fill="url(#gradRed)" font-weight="bold" text-anchor="end">EXPLOIT FRAMEWORK</text>
+</svg>
