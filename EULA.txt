@@ -1,0 +1,47 @@
+
+### END USER LICENSE AGREEMENT (EULA)
+
+**IMPORTANT - READ CAREFULLY:**
+This End User License Agreement ("EULA") is a legal agreement between you (either an individual or a single entity) and **[YOUR NAME / COMPANY NAME]** ("Licensor") for the **WPAUTO** software product, which includes computer software and may include associated media, printed materials, and "online" or electronic documentation ("Software").
+
+BY INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU AGREE TO BE BOUND BY THE TERMS OF THIS EULA. IF YOU DO NOT AGREE TO THE TERMS OF THIS EULA, DO NOT INSTALL OR USE THE SOFTWARE.
+
+#### 1. GRANT OF LICENSE
+
+The Software is licensed, not sold. The Licensor grants you the following rights provided that you comply with all terms and conditions of this EULA:
+
+* **License Grant:** The Licensor grants you a non-exclusive, non-transferable, limited license to install and use one (1) copy of the Software on a device that you own or control.
+* **Usage:** This license applies to **[Personal / Commercial / Professional]** use only, in accordance with the license tier purchased.
+
+#### 2. DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS
+
+You agree not to, and you will not permit others to:
+
+* **Reverse Engineering:** You may not reverse engineer, decompile, disassemble, or attempt to derive the source code of the Software.
+* **No Distribution:** You may not rent, lease, lend, sell, redistribute, or sublicense the Software to any third party.
+* **No Modification:** You may not modify, translate, or create derivative works based on the Software.
+* **Security Bypass:** You may not attempt to bypass, disable, or defeat any security features, licensing mechanisms, or digital rights management (DRM) embedded within the Software.
+
+#### 3. INTELLECTUAL PROPERTY RIGHTS
+
+All title, ownership rights, and intellectual property rights in and to the Software (including but not limited to any images, photographs, animations, video, audio, music, text, and "applets" incorporated into the Software) are owned by **[YOUR NAME / COMPANY NAME]**. The Software is protected by copyright laws and international treaty provisions.
+
+#### 4. LEGAL AND ETHICAL COMPLIANCE
+
+**Warning: This software is a security assessment tool.**
+
+* **Lawful Use Only:** You agree to use the Software ONLY for educational purposes, security research, or on systems where you have explicit authorization (permission) to test.
+* **Prohibition of Misuse:** You are strictly prohibited from using the Software for illegal activities, unauthorized access, cyber-attacks, or damaging third-party systems.
+* **Indemnification:** The Licensor is not responsible for any damage, legal consequences, or liabilities arising from the misuse of this Software. All risks associated with the use of the Software are solely borne by the User.
+
+#### 5. TERMINATION
+
+Without prejudice to any other rights, the Licensor may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such an event, you must destroy all copies of the Software and all of its component parts.
+
+#### 6. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+#### 7. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS INFORMATION, OR ANY OTHER PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE.
